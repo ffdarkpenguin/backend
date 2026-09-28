@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest
+httpx2
+flake8
+isort
+mypy
